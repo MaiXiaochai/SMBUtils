@@ -7,7 +7,7 @@
     + 使用账号密码访问windows共享目录
     + 下载共享目录下的文件到本地
     + 删除共享目录中的文件
-  
+
 ##### 2. 使用方法
 + `pip install pysmb`
 + [具体使用样例:demo.py](demo.py)
@@ -65,6 +65,7 @@
 
     ```
 ##### 3. 其它帮助信息
-+ [pysmb 源码: https://github.com/miketeo/pysmb](https://github.com/miketeo/pysmb)
-+ [pysmb 源码官方详解: https://pysmb.readthedocs.io/en/latest/](https://pysmb.readthedocs.io/en/latest/)
++ [:books: ​pysmb 源码: https://github.com/miketeo/pysmb](https://github.com/miketeo/pysmb)
++ [:books: ​pysmb 源码官方详解: https://pysmb.readthedocs.io/en/latest/](https://pysmb.readthedocs.io/en/latest/)
 + 另外，源码的tests文件中包含了很多详细的用例，如遇到困难可结合这三种资源。
+
